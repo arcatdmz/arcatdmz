@@ -1,7 +1,7 @@
 #### 🌟 List of projects
 https://junkato.jp/projects/
 
-### 🔥 Latest work on GitHub
+#### 🔥 Latest work on GitHub
 [TextAlive App API](https://github.com/TextAliveJp/textalive-app-api), [Pressure-sensitive brush implementation for Fabric.js](https://github.com/arch-inc/fabricjs-psbrush), ...
 
 #### 🏢 Affiliations
