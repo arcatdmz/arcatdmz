@@ -1,6 +1,10 @@
-#### 🌟 List of projects: https://junkato.jp/projects/<br>
-#### 🏢 Affiliations: Senior Researcher at [AIST](https://www.aist.go.jp/index_en.html), Technical Advisor at [Arch, Inc.](https://research.archinc.jp/en)
-#### 🌎 Elsweyr on the web: [Google Scholar](https://scholar.google.com/citations?user=U88aqc8AAAAJ), [Facebook](https://facebook.com/jun.kato), [LinkedIn](https://jp.linkedin.com/in/jkato), [npm](https://www.npmjs.com/~arcatdmz), [Docker Hub](https://hub.docker.com/u/arcatdmz)
+#### 🌟 List of projects
+https://junkato.jp/projects/
+
+#### 🏢 Affiliations
+Senior Researcher at [AIST](https://www.aist.go.jp/index_en.html), Technical Advisor at [Arch, Inc.](https://research.archinc.jp/en)
+#### 🌎 Elsweyr on the web
+[Google Scholar](https://scholar.google.com/citations?user=U88aqc8AAAAJ), [Facebook](https://facebook.com/jun.kato), [LinkedIn](https://jp.linkedin.com/in/jkato), [npm](https://www.npmjs.com/~arcatdmz), [Docker Hub](https://hub.docker.com/u/arcatdmz)
 
 <!--
 **arcatdmz/arcatdmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
