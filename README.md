@@ -1,11 +1,11 @@
 #### 🌟 List of projects
-https://junkato.jp/projects/
+https://junkato.jp/projects/ (English), https://junkato.jp/ja/projects/ (日本語)
 
 #### 🔥 Latest work on GitHub
 [TextAlive App API](https://github.com/TextAliveJp/textalive-app-api), [Pressure-sensitive brush implementation for Fabric.js](https://github.com/arch-inc/fabricjs-psbrush), ...
 
 #### 🏢 Affiliations
-Senior Researcher at [AIST](https://www.aist.go.jp/index_en.html), Technical Advisor at [Arch, Inc.](https://research.archinc.jp/en)
+Chief Senior Researcher at [AIST](https://www.aist.go.jp/index_en.html), Technical Advisor at [Arch, Inc.](https://research.archinc.jp/en)
 
 #### 🌎 Elsweyr on the web
 [Google Scholar](https://scholar.google.com/citations?user=U88aqc8AAAAJ), [Facebook](https://facebook.com/jun.kato), [LinkedIn](https://jp.linkedin.com/in/jkato), [npm](https://www.npmjs.com/~arcatdmz), [Docker Hub](https://hub.docker.com/u/arcatdmz)
